@@ -1,4 +1,4 @@
-public class RmeoveExtraSpaceInString {
+public class RemoveExtraSpaceInString {
 
 	public static void main(String[] args) {
 		String s1 = "Java is   an   Object   Oriented     Programming    language";  
