@@ -1,6 +1,6 @@
 import java.util.TreeMap;
 
-public class AlphaTreemap {
+public class AlphaTreemap{
 
 	public static void main(String[] args) {
 		TreeMap<Integer, String> t = new TreeMap<Integer,String>();
