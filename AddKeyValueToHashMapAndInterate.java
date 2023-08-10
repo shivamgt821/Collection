@@ -4,7 +4,7 @@ import java.util.Set;
 
 public class AddKeyValueToHashMapAndInterate {
 
-	public static void main(String[] args){
+	public static void main(String[] args) {
 		
 		HashMap<String,String> flights = new HashMap<String,String>();
 		
